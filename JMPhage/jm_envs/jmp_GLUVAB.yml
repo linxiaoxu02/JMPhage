@@ -1,0 +1,30 @@
+name: jmp_GLUVAB
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - perl=5.22.0
+  - perl-bioperl
+  - perl-app-cpanminus
+  - blast
+  - diamond=0.9.14
+  - prodigal=2.6.3
+  - hmmer
+  - mafft
+  - fasttree
+  - raxml
+  - muscle
+  - clustalo
+  - clustalw
+  - r-base=4.1.3
+  - r-phangorn=2.11.1
+  - r-ape=5.7_1
+  - r-magrittr
+  - r-quadprog
+  - r-rcpp
+  - r-igraph
+  - r-matrix
+  - pandas
+  - numpy

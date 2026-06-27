@@ -1,0 +1,39 @@
+name: jmp_VIRIDIC
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12.0
+  - perl=5.32.1
+  - r-base=4.3.1
+  - blast=2.14.1
+  - entrez-direct=16.2
+  - ncbi-vdb=3.0.0
+  - r-tidyverse
+  - r-data.table
+  - r-reshape2
+  - r-pheatmap
+  - r-igraph
+  - r-optparse
+  - r-seqinr
+  - r-fastcluster
+  - r-paralleldist
+  - r-furrr
+  - bioconductor-complexheatmap
+  - r-recommended
+  - r-boot
+  - r-class
+  - r-cluster
+  - r-codetools
+  - r-foreign
+  - r-kernsmooth
+  - r-lattice
+  - r-mass
+  - r-matrix
+  - r-mgcv
+  - r-nlme
+  - r-nnet
+  - r-rpart
+  - r-spatial
+  - r-survival
